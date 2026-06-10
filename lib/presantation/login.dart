@@ -16,7 +16,7 @@ class _LoginState extends State<Login> {
       body: Center(
         child: Column(
           children: [
-            Text("Github")
+            Text("new login")
           ],
         ),
       )
